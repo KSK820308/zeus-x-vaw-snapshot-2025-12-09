@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+62cce2a4d912be532f4e472403df9689 ZeusXVawApp_artefacts/JuceLibraryCode/JuceHeader.h
+39de720dbc01e81d420ed4a7e88b4ab1 ZeusXVawApp_artefacts/JuceLibraryCode/ZeusXVawApp/PkgInfo

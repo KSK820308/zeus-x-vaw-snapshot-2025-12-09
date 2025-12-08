@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ksk/PROJECT/ZEUS-X-WAV/build/cmake_install.cmake",
+		"/Users/ksk/PROJECT/ZEUS-X-WAV/build/Vendor/JUCE/cmake_install.cmake",
+		"/Users/ksk/PROJECT/ZEUS-X-WAV/build/Vendor/JUCE/modules/cmake_install.cmake",
+		"/Users/ksk/PROJECT/ZEUS-X-WAV/build/Vendor/JUCE/extras/Build/cmake_install.cmake",
+		"/Users/ksk/PROJECT/ZEUS-X-WAV/build/Vendor/JUCE/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
